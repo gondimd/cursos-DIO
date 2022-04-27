@@ -58,4 +58,4 @@ Git clone https:// endereço que esta no githun
 Para realizar os commits:
 git add *  (* ou . )
 git commit -m "coloque a informacao sobre este commit"   (faz o commit para repositorio local)
-git push origin master e/ou main ("empurra" o que foi comitado para o repositorio web)
+git push origin master ou apenas "git push" ("empurra" o que foi comitado para o repositorio web)

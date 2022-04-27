@@ -5,13 +5,13 @@ GERACAO DE CHAVES:
 Git init (comando para inicializar o git em determinada pasta)
 	GERAR CHAVE CRIPTOGRAFADA PARA O GITHUB
 
-Ssh-keygen –t ed25519 –C diegofernandes999@gmail.com   (gera a chave)
+Ssh-keygen –t ed25519 –C email@gmail.com   (gera a chave)
 
 Pwd – mostra o caminho completo das pastas
-Cd /c/Users/diego.gondim/.ssh
+Cd /c/Users/user/.ssh
 Acessar o diretório oculto ~/.ssh  e digitar o seguinte comando:
 $ cat id_ed25519.pub  (tem q ser este arquivo pq ele é a chave publica)
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKeNnA8xVifuxC3bB9B+Zf6N4brmdVTAD4EhL1lCA6Ru diegofernandes999@gmail.com
+ssh-ed25519 chave email@gmail.com
 
 INICIALIZAR O SSH AGENT, ele pega as chaves e gerir elas:
 No diretório do ~/.ssh   digitar:

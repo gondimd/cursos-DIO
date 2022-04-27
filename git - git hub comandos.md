@@ -30,7 +30,7 @@ Git config –global –unset user.email
 Git config –global –unset user.Name
 
 ADD NOVO EMAIL:
-Git config –global user.mail diegofernandes999@gmail.com
+Git config –global user.mail email@gmail.com
 
 
 Se vc usou um usuario e email diferente no github, eles vao aparecer diferentes la.

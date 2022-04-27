@@ -37,12 +37,16 @@ ________________________________________________________________________________
 
 ### CONFIGURANDO O REPOSITORIO
 1- NO BASH  (clica lado direito do mouse dentro da pasta onde será seu repositório)
+
 	- Git init 
+	
 	- Git remote add origin https://github.com/gondimd/livro-receitas.git
 
 Git remote –v (lista de repositories remotos que tenho cadastrado) 
+
 	- Git status (verifica se há alguma pendencia)
-	- Git push  origin master     (origin é um alias q vc atribui para não ficar precisando digitar toda vez o endereço da URL) Este comando envia para o repositório web.
+	
+	- Git push  origin master (origin é um alias q vc atribui para não ficar precisando digitar toda vez o endereço da URL) Este comando envia para o repositório web.
 
 
 ### FORMA MAIS PRATICA DE REALIZAR A CRIACAO DO REPOSITORIO
@@ -53,6 +57,7 @@ Git remote –v (lista de repositories remotos que tenho cadastrado)
  - Git clone https:// endereço que esta no githun
 
 Para realizar os commits:
+
 - git add *  (* ou . )
 - git commit -m "coloque a informacao sobre este commit"   (faz o commit para repositorio local)
 - git push origin master ou apenas "git push" ("empurra" o que foi comitado para o repositorio web)

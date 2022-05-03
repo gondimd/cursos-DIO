@@ -47,7 +47,7 @@ Git remote –v (lista de repositories remotos que tenho cadastrado)
 	- Git status (verifica se há alguma pendencia)
 	
 	- Git push  origin master (origin é um alias q vc atribui para não ficar precisando digitar toda vez o endereço da URL) Este comando envia para o repositório web.
-
+	- OBSERVAÇÃO: caso ocorra falha para realizar o commit no git, faça primeiro o comando "git pull" _ para pegar o que esta no repositorio web e atualizar o repositório local, em seguinda faça o "git push" para empurrar a ultima atualizacao que foi feita no repositório local.
 
 ### FORMA MAIS PRATICA DE REALIZAR A CRIACAO DO REPOSITORIO
 1-	CRIAR CONTA NO GIT HUB

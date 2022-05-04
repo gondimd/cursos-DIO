@@ -180,4 +180,4 @@ Usamos o font-style para tornar um texto itálico, na maioria das vezes você us
 
 
 
-<a href="https://developer.mozilla.org/pt-BR/" target="blanck_">SITE PARA ESTUDAR TECNOLOGIAS WEB (CSS, HTML, JavaScript)</a>
+<a href="https://developer.mozilla.org/pt-BR/" target="_blanck">SITE PARA ESTUDAR TECNOLOGIAS WEB (CSS, HTML, JavaScript)</a>
